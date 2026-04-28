@@ -172,7 +172,7 @@ plotProfile for all 6 samples. Normal breast samples (NB1, NB2) have the lowest 
 
 Distribution of mean methylation differences between normal and cancer. The left-skewed distribution reflects global hypomethylation in cancer, with a smaller right peak of hypermethylated DMRs representing promoter-specific gains in methylation.
 
-![DMR length nt](results/metilene_dmr_length_nt.png)
+![DMR length nt](results/metilene_dmr_length_nt.png.png)
 
 DMR length distribution in nucleotides. Most DMRs are below 2000 nt. A long tail extends to over 30,000 nt representing large blocks of coordinated differential methylation.
 
